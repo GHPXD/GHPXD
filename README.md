@@ -24,8 +24,8 @@ Apaixonado por inovação, automações e transformação digital com Python, Ja
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GHPXD&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHPXD&layout=compact&theme=tokyonight&hide_title=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GHPXD&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHPXD&layout=compact&theme=tokyonight&hide_title=true" />
 </div>
 
 ---
