@@ -10,6 +10,7 @@ Apaixonado por inovação, automações e transformação digital com Python, Ja
 
 ---
 
+
 ### 🧠 Habilidades Técnicas
 
 - **Linguagens:** Python, Java, VBA, SQL, JavaScript, TypeScript
@@ -28,7 +29,7 @@ Apaixonado por inovação, automações e transformação digital com Python, Ja
 </div>
 
 ---
-### 🐍 Snake Game dos Commits
+### 🐍 Commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GHPXD/GHPXD/output/github-contribution-grid-snake-dark.svg" />
