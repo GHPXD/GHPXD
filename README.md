@@ -1,9 +1,9 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0C134F&height=200&section=header&text=Guilherme%20Henrique%20Pereira&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00FFAB&size=26&pause=7000&center=true&vCenter=true&width=450&lines=Guilherme+Henrique+Pereira" alt="Typing SVG" />
 </p>
-
-## 👋 Olá! Eu sou o Guilherme Henrique Pereira
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00BFFF&size=20&pause=1000&center=true&vCenter=true&width=400&lines=Engenheiro+de+Software;Analista+de+Dados" alt="Typing SVG" />
+</p>
 
 Sou um **Engenheiro de Software e Analista de Dados** com experiências em grandes empresas como **Volvo**, **Votorantim** e **Vivo**.  
 Apaixonado por inovação, automações e transformação digital com Python, Java Spring Boot e visualização de dados com Power BI.
