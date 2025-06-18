@@ -78,10 +78,3 @@ Apaixonado por inovação, automações e transformação digital com Python, Ja
   <a href="https://www.linkedin.com/in/ghpxd" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://discord.com/users/ghpxd" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GHPXD&label=Profile%20views&color=0e75b6&style=flat" alt="GHPXD" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GHPXD&theme=tokyonight&hide_border=true" />
-</p>
