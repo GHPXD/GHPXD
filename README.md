@@ -1,11 +1,3 @@
-### 🐍 Snake Game dos Commits
-
-<p align="center">
-  <img src="https://github.com/GHPXD/GHPXD/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-
-
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0C134F&height=200&section=header&text=Guilherme%20Henrique%20Pereira&fontSize=40&fontColor=ffffff&animation=fadeIn" />
@@ -36,7 +28,14 @@ Apaixonado por inovação, automações e transformação digital com Python, Ja
 </div>
 
 ---
+### 🐍 Snake Game dos Commits
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GHPXD/GHPXD/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/GHPXD/GHPXD/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
 ### 💻 Ferramentas & Tecnologias
 
 <div style="display: inline_block"><br>
@@ -49,6 +48,7 @@ Apaixonado por inovação, automações e transformação digital com Python, Ja
   <img align="center" alt="Jenkins" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Azure" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 </div>
+
 
 ---
 
