@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00BFFF&size=20&pause=1000&center=true&vCenter=true&width=400&lines=Engenheiro+de+Software;Analista+de+Dados" alt="Typing SVG" />
 </p>
 
-Sou um **Engenheiro de Software e Analista de Dados** com experiências em grandes empresas como **Volvo**, **Votorantim** e **Vivo**.  
+Sou um **Engenheiro de Software e Dados** com experiências em grandes empresas como **Volvo**, **Votorantim** e **Vivo**.  
 Apaixonado por inovação, automações e transformação digital com Python, Java Spring Boot e visualização de dados com Power BI.
 
 ---
