@@ -13,10 +13,11 @@ Apaixonado por inovação, automações e transformação digital com Python, Ja
 
 ### 🧠 Habilidades Técnicas
 
-- **Linguagens:** Python, Java, VBA, SQL, JavaScript, TypeScript
-- **Frameworks & Ferramentas:** Spring Boot, React, PySpark, Selenium, Power Automate, Jenkins, Docker
-- **Dados & BI:** Pandas, Power BI, Databricks, ETL, MongoDB, Oracle SQL
-- **DevOps & Cloud:** Git, Azure, Docker, CI/CD
+- **Linguagens:** Python, Java, VBA, SQL, JavaScript
+- **Frameworks & Ferramentas:** Spring Boot, React, PySpark, Selenium, Power Automate, Jenkins
+- **Dados & AI:** Pandas, Power BI, Databricks, ETL, LangChain (LLM), Scikit-learn
+- **Banco de Dados:** MongoDB, Oracle SQL
+- **DevOps & Cloud:** Git, Azure, AWS EC2, Docker, CI/CD, Jira, Postman 
 - **Metodologias:** Scrum, Kanban, Kaizen
 
 ---
