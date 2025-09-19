@@ -11,12 +11,12 @@ Atuo no desenvolvimento de pipelines de dados em nuvem, automações inteligente
 ---
 ### 🧠 Habilidades Técnicas
 
-● Linguagens: Python, SQL, Java (Spring Boot), JavaScript (React), VBA
-● Dados & Big Data: PySpark, Pandas, ETL/ELT, Databricks, Delta Lake, Power BI, LangChain (LLM), Scikit-learn
-● Integração & Automação: Power Automate, Selenium, APIs REST, AI Builder, Form Recognizer
-● Banco de Dados: MySQL, Oracle, SQL Server, MongoDB
-● Cloud & DevOps: Azure (Data Factory, ADLS, Databricks), AWS (EC2, S3), Docker, Git, CI/CD (Jenkins, Azure DevOps), Postman
-● Metodologias: Scrum, Kanban, Lean Six Sigma (Yellow Belt)
+- ● **Linguagens:** Python, SQL, Java (Spring Boot), JavaScript (React), VBA
+- ● **Dados & Big Data:** PySpark, Pandas, ETL/ELT, Databricks, Delta Lake, Power BI, LangChain (LLM), Scikit-learn
+● **Integração & Automação:** Power Automate, Selenium, APIs REST, AI Builder, Form Recognizer
+● **Banco de Dados:** MySQL, Oracle, SQL Server, MongoDB
+● **Cloud & DevOps:** Azure (Data Factory, ADLS, Databricks), AWS (EC2, S3), Docker, Git, CI/CD (Jenkins, Azure DevOps), Postman
+● **Metodologias:** Scrum, Kanban, Lean Six Sigma (Yellow Belt)
 
 ---
 ### 🚀 Projetos em Destaque
