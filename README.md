@@ -5,20 +5,33 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00BFFF&size=20&pause=3000&center=true&vCenter=true&width=400&lines=Engenheiro+de+Software" alt="Typing SVG" />
 </p>
 
-Sou um **Engenheiro de Software e Dados** com experiências em grandes empresas como **Volvo**, **Votorantim** e **Vivo**.  
-Apaixonado por inovação, automações e transformação digital com Python, Java Spring Boot e visualização de dados com Power BI.
+👋 Sobre mim
 
----
+Sou um Engenheiro de Dados e Software com experiência em empresas como Volvo, Votorantim e Vivo.
+Atuo no desenvolvimento de pipelines de dados em nuvem, automações inteligentes com Python e PySpark, integração de sistemas corporativos e visualização de dados com Power BI.
+Apaixonado por inovação, escalabilidade e transformação digital através de soluções orientadas a dados.
 
+🧠 Habilidades Técnicas
 
-### 🧠 Habilidades Técnicas
+Linguagens: Python, SQL, Java (Spring Boot), JavaScript (React), VBA
 
-- **Linguagens:** Python, Java, VBA, SQL, JavaScript
-- **Frameworks & Ferramentas:** Spring Boot, React, PySpark, Selenium, Power Automate, Jenkins
-- **Dados & AI:** Pandas, Power BI, Databricks, ETL, LangChain (LLM), Scikit-learn
-- **Banco de Dados:** MongoDB, Oracle SQL
-- **DevOps & Cloud:** Git, Azure, AWS EC2, Docker, CI/CD, Jira, Postman 
-- **Metodologias:** Scrum, Kanban, Kaizen
+Dados & Big Data: PySpark, Pandas, ETL/ELT, Databricks, Delta Lake, Power BI, LangChain (LLM), Scikit-learn
+
+Integração & Automação: Power Automate, Selenium, APIs REST, AI Builder, Form Recognizer
+
+Banco de Dados: MySQL, Oracle, SQL Server, MongoDB
+
+Cloud & DevOps: Azure (Data Factory, ADLS, Databricks), AWS (EC2, S3), Docker, Git, CI/CD (Jenkins, Azure DevOps), Postman
+
+Metodologias: Scrum, Kanban, Lean Six Sigma (Yellow Belt)
+
+🚀 Projetos em Destaque
+
+Automação de Notas Fiscais (Votorantim): AI Builder + Power Automate para extrair dados de PDFs, com processamento distribuído em PySpark no Databricks para consolidação de fornecedores.
+
+Relatórios Ambientais (Volvo): Automação em Python + pdfplumber + SAP + Power BI, com pré-validação de dados usando LLMs via LangChain.
+
+Microserviços (Vivo): Desenvolvimento em Java Spring Boot com bancos relacionais, APIs REST, CI/CD e automação de processos com Python e Pandas.
 
 ---
 
