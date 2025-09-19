@@ -21,9 +21,9 @@ Atuo no desenvolvimento de pipelines de dados em nuvem, automações inteligente
 ---
 ### 🚀 Projetos em Destaque
 
-Automação de Notas Fiscais (Votorantim): AI Builder + Power Automate para extrair dados de PDFs, com processamento distribuído em PySpark no Databricks para consolidação de fornecedores.
-Relatórios Ambientais (Volvo): Automação em Python + pdfplumber + SAP + Power BI, com pré-validação de dados usando LLMs via LangChain.
-Microserviços (Vivo): Desenvolvimento em Java Spring Boot com bancos relacionais, APIs REST, CI/CD e automação de processos com Python e Pandas.
+- **Automação de Notas Fiscais (Votorantim):** AI Builder + Power Automate para extrair dados de PDFs, com processamento distribuído em PySpark no Databricks para consolidação de fornecedores.
+- **Relatórios Ambientais (Volvo):** Automação em Python + pdfplumber + SAP + Power BI, com pré-validação de dados usando LLMs via LangChain.
+- **Microserviços (Vivo):** Desenvolvimento em Java Spring Boot com bancos relacionais, APIs REST, CI/CD e automação de processos com Python e Pandas.
 
 ---
 ### 📊 GitHub Stats
