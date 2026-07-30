@@ -7,50 +7,51 @@
 
 ---
 
-👋 Olá! Sou Engenheiro de Dados & Software (Pleno) com sólida experiência no desenvolvimento de pipelines de dados em nuvem, automações corporativas inteligentes e arquitetura de software. Tenho passagem por grandes players como **Volvo**, **Votorantim** e **Vivo**.
+👋 Olá! Sou Engenheiro de Dados e Software (Pleno) com experiência no desenvolvimento de pipelines de dados em nuvem, automações corporativas e arquitetura de backend. Tenho atuação em projetos para empresas como **Volvo**, **Votorantim** e **Vivo**.
 
-Além do ecossistema de dados e Big Data, também exploro o desenvolvimento mobile cross-platform, ecossistema de game dev e soluções de IA aplicadas a desafios sociais e preditivos.
+Além do ecossistema de Big Data e Cloud, atuo no desenvolvimento de aplicações mobile com **Flutter**, criação de jogos indie com **Godot Engine** e projetos de Machine Learning / IA aplicados a impacto social e epidemiologia.
 
 ---
 
 ### 🧠 Habilidades Técnicas
 
-- **Linguagens:** Python, SQL, Dart, C#, Java (Spring Boot), JavaScript/TypeScript
-- **Engenharia de Dados & Big Data:** PySpark, Pandas, ETL/ELT, Databricks, Delta Lake, Power BI, LangChain (LLM), Scikit-learn
+- **Linguagens:** Python, SQL, Dart, GDScript, Java (Spring Boot), JavaScript / TypeScript
+- **Engenharia de Dados & Machine Learning:** PySpark, Pandas, Databricks, Delta Lake, ETL/ELT, Scikit-learn, PyTorch, TensorFlow, LangChain (LLMs), Power BI
 - **Cloud & DevOps:** Azure (Data Factory, ADLS, Databricks), AWS (EC2, S3), Docker, Git, CI/CD (Azure DevOps, Jenkins), Postman
-- **Desenvolvimento de Software & Mobile:** Flutter, Godot Engine (GDScript / C#), APIs REST, Arquitetura Hexagonal, Spring Boot
-- **Banco de Dados:** PostgreSQL, MySQL, SQL Server, Oracle, MongoDB
-- **Automação & Integração:** Power Automate, Selenium, AI Builder, Form Recognizer
+- **Software & Mobile:** Flutter (Dart), Godot Engine, APIs REST, Arquitetura Hexagonal, Spring Boot
+- **Bancos de Dados:** PostgreSQL, MySQL, SQL Server, Oracle, MongoDB
+- **Automação Corporativa:** Power Automate, Selenium, AI Builder
 
 ---
 
-### 🚀 Projetos em Destaque & Impacto
+### 🚀 Projetos de Impacto & Autorais
 
 #### 🏆 **Dengo — Previsão Epidemiológica com IA**
 > *Projeto premiado no programa Curitiba Mais Criativa e selecionado para exposição nacional.*
-- **Descrição:** Solução de inteligência artificial voltada à análise e previsão de surtos epidemiológicos, combinando modelos preditivos de dados para apoio à tomada de decisão em saúde pública.
+- Solução baseada em Machine Learning e Deep Learning (PyTorch, TensorFlow, Scikit-learn) para análise e previsão de surtos epidemiológicos, fornecendo suporte a decisões estratégicas em saúde pública.
 
-#### 💼 **Projetos Corporativos (Volvo, Votorantim, Vivo)**
-- **Automação de DRE & Gestão Fiscal (Votorantim):** Extração Inteligente com AI Builder + Power Automate e processamento distribuído em PySpark/Databricks para consolidação corporativa.
-- **Relatórios Ambientais & Validação LLM (Volvo):** Pipelines em Python + SAP + Power BI integrados ao LangChain para pré-validação automatizada de dados regulamentares.
-- **Microsserviços Corporativos (Vivo):** Desenvolvimento de APIs REST resilientes em Java (Spring Boot), arquitetura hexagonal e esteiras CI/CD automatizadas.
+#### 📱 **Projetos de Software & Mobile**
+- **BitShelf:** Aplicativo para gerenciamento e organização de coleções pessoais de jogos.
+- **Eternalize:** Plataforma e app para memoriais digitais, com integração completa de fluxo de pagamentos.
+- **Desenvolvimento de Jogos (Godot):** Projetos indie e prototipagem de mecânicas interativas em 2D/3D.
 
-#### 📱 **Mobile & Game Dev**
-- **BitShelf:** Gerenciador pessoal de biblioteca de jogos com foco em UX e organização de coleções.
-- **Eternalize:** Plataforma e aplicativo para memoriais digitais, com integração completa de gateway de pagamentos.
-- **Projetos Indie em Godot:** Desenvolvimento de mecânicas de jogos 2D/3D interativos.
+#### 💼 **Casos de Uso Corporativos**
+- **Automação Fiscal & Dados (Votorantim):** Extração de dados de documentos via AI Builder + Power Automate e processamento em escala com PySpark no Databricks.
+- **Relatórios Ambientais (Volvo):** Scripts Python integrados a SAP e Power BI com validação inteligente de dados via LangChain.
+- **Microsserviços Corporativos (Vivo):** APIs REST desenvolvidas em Java (Spring Boot) com arquitetura hexagonal e esteiras de CI/CD.
 
 ---
 
-### 💻 Ferramentas & Ecossistema
+### 💻 Ferramentas & Tecnologias
 
 <div align="center">
   <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="PyTorch" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img align="center" alt="TensorFlow" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   <img align="center" alt="Dart" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Flutter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Godot" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
   <img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="C#" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Azure" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="PowerBI" height="40" src="https://img.icons8.com/color/48/000000/power-bi.png" />
@@ -61,7 +62,6 @@ Além do ecossistema de dados e Big Data, também exploro o desenvolvimento mobi
 ### 📌 Certificações
 
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
-- Lean Six Sigma Yellow Belt
 - Bootcamp Santander: Ciência de Dados com Python
 - Bootcamp Santander: Java & Angular
 
@@ -76,7 +76,7 @@ Além do ecossistema de dados e Big Data, também exploro o desenvolvimento mobi
 
 ---
 
-### 🐍 Contribution Activity
+### 🐍 Atividade de Commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GHPXD/GHPXD/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
