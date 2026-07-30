@@ -59,29 +59,62 @@ Além do ecossistema de Big Data e Cloud, atuo no desenvolvimento de aplicaçõe
 
 ---
 
-### 📌 Certificações
-
-- Microsoft Certified: Azure Administrator Associate (AZ-104)
-- Bootcamp Santander: Ciência de Dados com Python
-- Bootcamp Santander: Java & Angular
-
----
-
-### 📊 GitHub Stats
+### 🏆 Galeria de Troféus
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GHPXD&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHPXD&layout=compact&theme=tokyonight&hide_title=true" />
+  <img src="https://github-profile-trophies.vercel.app/?username=GHPXD&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
 </div>
 
 ---
 
-### 🐍 Atividade de Commits
+### 📊 Estatísticas & Ofensiva de Commits
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GHPXD&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=GHPXD&theme=tokyonight&hide_border=true" />
+</div>
+
+<br />
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHPXD&layout=compact&theme=tokyonight&hide_title=true" />
+</div>
+
+---
+
+### 🏙️ Gráfico de Contribuição 3D
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GHPXD/GHPXD/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/GHPXD/GHPXD/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
+</div>
+
+---
+
+### 🐍 Snake Game (Contribuições)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GHPXD/GHPXD/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/GHPXD/GHPXD/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+
+### 💬 Frase Tech do Dia
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+---
+
+### 📌 Certificações
+
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Bootcamp Santander: Ciência de Dados com Python
+- Bootcamp Santander: Java & Angular
 
 ---
 
